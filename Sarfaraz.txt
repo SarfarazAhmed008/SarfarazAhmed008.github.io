@@ -1,6 +1,6 @@
 <span id="a">sarfaraz</span>:<span id="b">~</span><span id="c">$</span> cd sarfaraz/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
 <span id="a">sarfaraz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->sarfaraz.txt<br/><br/>
-My favorite code quote, "<span id="k">You can't trust code that you did not totally create yourself.</span>".
+Favorite code quote, "<span id="k">You can't trust code that you did not totally create yourself.</span>".
 
 <p>1+ years of experience in designing and developing scalable and highly available software­-​as­-​a­-​service applications using Java stack. I am always open in working with new tech stack. Following are my current tech stack.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Tech Stack:
@@ -20,9 +20,9 @@ My favorite code quote, "<span id="k">You can't trust code that you did not tota
       Project Management: Scrum
 </p>
 <p></p>
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="https://github.com/SarfarazAhmed008">Github</a> <br> <a href="https://www.linkedin.com/in/SarfarazAhmed008">LinkedIn</a></p>
+<p> Professional profiles on Internet, here: <br> <a href="https://github.com/SarfarazAhmed008">Github</a> <br> <a href="https://www.linkedin.com/in/SarfarazAhmed008">LinkedIn</a></p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <a href="mailto:dev.sarfaraz1@gmail.com"> dev.sarfaraz1@gmail.com</a>.
+Feel free to send me an email at <a href="mailto:dev.sarfaraz1@gmail.com"> dev.sarfaraz1@gmail.com</a>.
 
 <p>Cheers!</p>
 <span id="a">sarfaraz</span>:<span id="b">~</span><span id="c">$</span> exit
