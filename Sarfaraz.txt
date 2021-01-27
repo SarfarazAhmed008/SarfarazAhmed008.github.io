@@ -1,8 +1,8 @@
 <span id="a">sarfaraz</span>:<span id="b">~</span><span id="c">$</span> cd sarfaraz/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
 <span id="a">sarfaraz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->sarfaraz.txt<br/><br/>
-My favorite code quote, "<span id="k"> You can't trust code that you did not totally create yourself. </span>".
+My favorite code quote, "<span id="k">You can't trust code that you did not totally create yourself.</span>".
 
-<p>1+ years of experience in designing and developing scalable and highly available software­-​as­-​a­​service applications using Java stack. I am always open in working with new tech stack. Following are my current tech stack.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>1+ years of experience in designing and developing scalable and highly available software­-​as­-​a­-​service applications using Java stack. I am always open in working with new tech stack. Following are my current tech stack.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Tech Stack:
 
       Programming Language: Java, Dart, JavaScript
