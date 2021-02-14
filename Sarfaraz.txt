@@ -2,14 +2,14 @@
 <span id="a">sarfaraz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->sarfaraz.txt<br/><br/>
 Favorite code quote, "<span id="k">You can't trust code that you did not totally create yourself.</span>".
 
-<p>1+ years of experience in designing and developing scalable and highly available software­-​as­-​a­-​service applications using Java stack. I am always open in working with new tech stack. Following are my current tech stack.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>1+ year of experience in designing and developing scalable and highly available web and cross-platform mobile applications. I am always open in working with new tech stack. Following are my current tech stack.</p>
 <p> Tech Stack:
 
       Programming Language: Java, Dart, JavaScript
       Cross Platform Mobile App (Android & IOS): Flutter
       Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
       Frontend: HTML5, CSS3, Jquery
-      Database: MySql
+      Database: MySql, NoSql
       Build tools: Maven
       Servers: Tomcat
       Cloud: AWS
