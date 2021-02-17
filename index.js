@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 100;
+Typer.speed = 30;
 Typer.file = 'Sarfaraz.txt';
 Typer.init();
 
