@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <title>Line HRM Attendance</title>
+  <style>
+    body {
+      background-color: #000;
+    }
+
+    .title {
+
+      margin-bottom: 50px;
+      text-transform: uppercase;
+    }
+
+    .card-block {
+      font-size: 1em;
+      position: relative;
+      margin: 0;
+      padding: 1em;
+      border: none;
+      border-top: 1px solid rgba(34, 36, 38, .1);
+      box-shadow: none;
+      color: white;
+    }
+
+    .card {
+      font-size: 1em;
+      overflow: hidden;
+      padding: 5;
+      border: none;
+      border-radius: .28571429rem;
+      /* box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5; */
+      margin-top: 20px;
+      background-color: black;
+
+    }
+
+    .carousel-indicators li {
+      border-radius: 12px;
+      width: 12px;
+      height: 12px;
+      background-color: #404040;
+    }
+
+    .carousel-indicators li {
+      border-radius: 12px;
+      width: 12px;
+      height: 12px;
+      background-color: #404040;
+    }
+
+    .carousel-indicators .active {
+      background-color: rgb(95, 95, 95);
+      max-width: 12px;
+      margin: 0 3px;
+      height: 12px;
+    }
+
+    /* .carousel-control-prev-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+    }
+
+    .carousel-control-next-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+    } */
+
+    /* lex-direction: column;
+    } */
+
+    .btn {
+      margin-top: auto;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container py-3">
+    <div class="title h1 text-center"></div>
+    <!-- Card Start -->
+    <div class="card">
+      <div class="row ">
+        <!-- Carousel start -->
+        <div class="col-md-4">
+          <div id="CarouselTest" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#CarouselTest" data-slide-to="0" class="active"></li>
+         
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block img-fluid" src="hrm/1.jpg" alt="">
+              </div>
+          
+              <a class="carousel-control-prev" href="#CarouselTest" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#CarouselTest" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- End of carousel -->
+        <div class="col-md-8 px-3">
+          <div class="card-block px-6">
+            <h4 class="card-title">Line HRM Attendance</h4>
+            <p class="card-text">
+              This is a single page gps attendance giving application where employees can check in and out their checking position with time. Geofencing functionalities are wrapped with this application. This app is backed with apis. Employees can check in and out only when they are in a given range, otherwise the check in and out won’t be counted.
+            </p>
+            <p class="card-text">Technology used: Flutter, REST APIs</p>
+            <br>
+            <!-- <a href="#" class="mt-auto btn btn-primary  ">Read More</a> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End of card -->
+
+  </div>
+
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
