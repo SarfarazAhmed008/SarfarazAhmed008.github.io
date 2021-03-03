@@ -1,2 +1,2 @@
 # Terminal Website
-Terminal based portfolio website
+Terminal based website
